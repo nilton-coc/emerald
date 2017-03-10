@@ -50,3 +50,4 @@ Last but not least: the [Jekyll documentation](http://jekyllrb.com) is the best 
 
 ## License
 Emerald is released under [MIT License](license.md).
+# minimal-blog
